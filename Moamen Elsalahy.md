@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=🔵+Role:+Malware+Analyst+%7C+Cryptography+%7C+Blue+Team;🎯+Focus:+Malware+Unpacking+%7C+Ransomware+Reversing;🏫+Academy:+Founder+%26+Instructor+%40+NP+Academy;Threat+Detection+%26+Incident+Response;SIEM+Operations+%7C+Log+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Malware+Analyst+%7C+Cryptography+%7C+Blue+Team+Defender;Malware+Unpacking+%7C+Ransomware+Reversing;Founder+%26+Instructor+%40+NP+Academy;Threat+Detection+%26+Incident+Response;SIEM+Operations+%7C+Log+Analysis)](https://git.io/typing-svg)
 
 <br/>
 
