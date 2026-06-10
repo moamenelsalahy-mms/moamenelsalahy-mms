@@ -89,8 +89,9 @@ binaries to understand attacker TTPs.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=moamenelsalahy-mms&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenelsalahy-mms&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moamenelsalahy-mms&show_icons=true"/>
+</p>
 
 <br/>
 
