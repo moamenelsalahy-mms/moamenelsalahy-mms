@@ -32,7 +32,7 @@
 <br/>
 Aspiring SOC Analyst and Cyber Security student specializing in Blue Team operations. Passionate about threat detection and incident response, with hands-on experience in log analysis, SIEM tools (Splunk/Sentinel), and basic malware analysis. Eager to apply academic knowledge in a real-world SOC environment.
 
-> 🎓 Studying **Cybersecurity** at Damietta University (Expected 2027)
+> 🎓 Studying **Cybersecurity** at Damietta University (Expected 2029)
 
 ---
 
