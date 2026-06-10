@@ -74,26 +74,24 @@ binaries to understand attacker TTPs.
 
 <div align="center">
 
-| # | Certification |
-|:---:|:---|
-| 01 | CompTIA Security+ | ✅ Completed |
-| 02 | CompTIA CySA+ CS0-003 | ✅ Completed |
-| 03 | CompTIA A+ 220-1101 | ✅ Completed |
-| 04 | Linux 101 | ✅ Completed |
-| 05 | Ubuntu Linux | ✅ Completed |
-| 06 | Python | ✅ Completed |
-| 07 | Computer Networking | ✅ Completed |
-| 08 | JavaScript | ✅ Completed |
-| 09 | SOC Level 1 | 🔄 In Progress |
-| 10 | SOC Fundamental | 🔄 In Progress |
-| 11 | Pre Security Path | 🔄 In Progress |
-| 12 | Pre-CyberSecurity | 🔄 In Progress |
-| 13 | eCIR Prep | 🔄 In Progress |
-| 14 | PHP & MySQL Web Applications | 🔄 In Progress |
+| # | Certification | Status |
+|:---:|:---|:---:|
+| 01 | CompTIA Security+ | Completed |
+| 02 | CompTIA CySA+ CS0-003 | Completed |
+| 03 | CompTIA A+ 220-1101 | Completed |
+| 04 | Linux 101 | Completed |
+| 05 | Ubuntu Linux | Completed |
+| 06 | Python | Completed |
+| 07 | Computer Networking | Completed |
+| 08 | JavaScript | Completed |
+| 09 | SOC Level 1 | In Progress |
+| 10 | SOC Fundamental | In Progress |
+| 11 | Pre Security Path | In Progress |
+| 12 | Pre-CyberSecurity | In Progress |
+| 13 | eCIR Prep | In Progress |
+| 14 | PHP & MySQL Web Applications | In Progress |
 
 </div>
-
----
 
 ### 🎯 Practice Platforms
 
