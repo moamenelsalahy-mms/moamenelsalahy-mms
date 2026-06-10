@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Threat+Detection+%26+Incident+Response;SIEM+Operations+%7C+Log+Analysis;Blue+Team+%7C+SOC+Analyst;Security+Educator+%40+NP+Academy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=🔵+Role:+Malware+Analyst+%7C+Cryptography+%7C+Blue+Team;🎯+Focus:+Malware+Unpacking+%7C+Ransomware+Reversing;🏫+Academy:+Founder+%26+Instructor+%40+NP+Academy;Threat+Detection+%26+Incident+Response;SIEM+Operations+%7C+Log+Analysis)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,9 +30,10 @@
 👋 &nbsp; About Me
 <br/>
 <br/>
-Aspiring SOC Analyst and Cyber Security student specializing in Blue Team operations. Passionate about threat detection and incident response, with hands-on experience in log analysis, SIEM tools (Splunk/Sentinel), and basic malware analysis. Eager to apply academic knowledge in a real-world SOC environment.
-
-> 🎓 Studying **Cybersecurity** at Damietta University (Expected 2029)
+Aspiring SOC Analyst with a growing focus on Malware Analysis and Cryptography. 
+Passionate about threat detection, incident response, and dissecting malicious 
+binaries to understand attacker TTPs. 
+> 🎓 Studying **Cybersecurity** at Damietta University (Graduating 2029) – Available for internships and part-time SOC roles
 
 ---
 
