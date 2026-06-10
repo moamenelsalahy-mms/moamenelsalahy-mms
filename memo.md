@@ -1,103 +1,106 @@
-:::writing{variant="document" id="58217"}
 # 🛡️ Moamen Elsalahy
 
-## 🚨 Security Profile
+```text
+[ STATUS ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Role        : Aspiring SOC Analyst
+Speciality  : Malware Analysis
+Focus       : Threat Hunting & Incident Response
+Location    : Egypt
+University  : Damietta University
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-| Field | Value |
-|--------|--------|
-| Role | Aspiring SOC Analyst |
-| Specialization | Malware Analysis |
-| Focus | Threat Hunting & Incident Response |
-| University | Damietta University |
-| Graduation | 2029 |
-| Location | Egypt 🇪🇬 |
+## 🚨 Mission Statement
 
----
+Aspiring SOC Analyst with a strong interest in Malware Analysis and Cryptography.
+Focused on threat detection, incident response, malware unpacking, ransomware analysis,
+and blue-team operations.
 
-## 👨‍💻 About Me
-
-Aspiring SOC Analyst with a growing focus on Malware Analysis and Cryptography.
-
-Passionate about threat detection, incident response, malware unpacking, ransomware analysis, and blue team operations.
-
-Currently studying Cybersecurity at Damietta University while building practical experience through security labs, malware analysis projects, and threat hunting exercises.
-
----
-
-## ⚡ Security Domains
-
-| Domain | Level |
-|----------|----------|
-| SOC Operations | ⭐⭐⭐⭐⭐ |
-| Threat Hunting | ⭐⭐⭐⭐ |
-| Incident Response | ⭐⭐⭐⭐ |
-| Malware Analysis | ⭐⭐⭐⭐ |
-| Cryptography | ⭐⭐⭐ |
-| Detection Engineering | ⭐⭐⭐ |
+Currently studying Cybersecurity at Damietta University while building hands-on experience
+through practical labs, detection engineering, and security research.
 
 ---
 
-## 💻 Technical Skills
+## 🔍 Security Domains
+
+| Domain                | Status     |
+| --------------------- | ---------- |
+| SOC Operations        | █████████░ |
+| Threat Hunting        | ████████░░ |
+| Malware Analysis      | ████████░░ |
+| Incident Response     | ████████░░ |
+| Cryptography          | ███████░░░ |
+| Detection Engineering | ███████░░░ |
+
+---
+
+## ⚙️ Technical Skills
 
 ### Operating Systems
-- Linux
-- Kali Linux
+
+* Linux
+* Kali Linux
 
 ### Programming
-- Python
-- JavaScript
-- C++
-- HTML
-- CSS
 
-### Security Areas
-- SIEM Operations
-- Log Analysis
-- Threat Detection
-- Incident Response
-- Malware Analysis
-- Threat Hunting
+* Python
+* JavaScript
+* C++
+* HTML
+* CSS
 
----
+### Security Tools
 
-## 🏅 Certifications
-
-- Linux 101
-- CompTIA CySA+
-- CompTIA Security+
-- CompTIA A+
-- Python
-- Computer Networking
-- JavaScript
-- Ubuntu Linux
+* SIEM Platforms
+* Wireshark
+* Nmap
+* Log Analysis
+* Threat Detection
 
 ---
 
-## 🎯 Practice Platforms
+## 🎓 Certifications
 
-- TryHackMe
-- Hack The Box
-- LetsDefend
-- CyberDefenders
-- Blue Team Labs Online
+* Linux 101
+* CompTIA CySA+
+* CompTIA Security+
+* CompTIA A+
+* Python
+* Computer Networking
+* JavaScript
+* Ubuntu Linux
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Training Platforms
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moamenelsalahy-mms&show_icons=true)
+| Platform       | Profile |
+| -------------- | ------- |
+| TryHackMe      | Active  |
+| Hack The Box   | Active  |
+| LetsDefend     | Active  |
+| CyberDefenders | Active  |
+| Blue Team Labs | Active  |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moamenelsalahy-mms&layout=compact)
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moamenelsalahy-mms&show_icons=true"/>
+</p>
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: moamenelsalahy1@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/moamen-elsalahy-mn2007
-- 🐙 GitHub: https://github.com/moamenelsalahy-mms
+* Email: [moamenelsalahy1@gmail.com](mailto:moamenelsalahy1@gmail.com)
+* LinkedIn: linkedin.com/in/moamen-elsalahy-mn2007
+* GitHub: github.com/moamenelsalahy-mms
 
 ---
 
-> Threat Detected → Investigate → Contain → Eradicate → Recover
-:::
+```text
+THREAT DETECTED → INVESTIGATE → CONTAIN → ERADICATE → RECOVER
+```
