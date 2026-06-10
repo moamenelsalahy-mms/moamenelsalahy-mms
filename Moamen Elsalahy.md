@@ -36,6 +36,24 @@ binaries to understand attacker TTPs.
 > 🎓 Studying **Cybersecurity** at Damietta University (Graduating 2029) – Available for internships and part-time SOC roles
 
 ---
+### 🛡️ Security Stack
+
+<div align="center">
+
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF88)
+![Elastic SIEM](https://img.shields.io/badge/Elastic%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3CADD4?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4A4A4A?style=for-the-badge&logoColor=00FF88)
+![TheHive](https://img.shields.io/badge/TheHive-F3A738?style=for-the-badge&logoColor=black)
+
+</div>
+
+---
 
 ### 💻 Dev Skills
 
